@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**angadkumar28/angadkumar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Angad Kumar</h1>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Aspiring+Software+Developer;Unity+Hub+Enthusiast;Electronics+and+Software+Dev" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 Currently learning and improving my development skills  
+💻 Interested in building real-world projects  
+🎯 Goal: Become a skilled Electronics & software developer  
+📫 Reach me: ak9276764@gmail.com
+📍 India
+
+---
+
+## 🚀 Tech Stack
+
+ <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,unity" />
+
+---
+
+## 📌 Current Focus
+
+- Strengthening Data Structures & Algorithms  
+- Building web development projects
+- Exploring core Electronics concepts alongside software development
+- Improving problem-solving skills  
+
+---
+
+## ✨ Quote I Believe In
+> "First make it work, then make it better"
+
+---
+
+⭐ Thanks for visiting my profile!
+
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3d0aHVhOW5lZWdvcm9kdmZydWI2eXQ3aGlmY3psZDNhc2RvOHIyayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/f4OqmUnZHAt1D0Lk5r/source.gif" alt="Fire" width="200" height="200" />
+</p>
