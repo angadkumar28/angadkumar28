@@ -1,4 +1,4 @@
-
+![My GitHub Metrics](/github-metrics.svg)
 
 <h1 align="center">Hi 👋, I'm Angad Kumar</h1>
 <p align="left">
