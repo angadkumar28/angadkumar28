@@ -25,13 +25,6 @@ jobs:
           config_display: large
           plugins_errors_fatal: no
           
-          # Achievements Plugin
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: ~       
-          plugin_achievements_limit: 0           
-          plugin_achievements_secrets: yes       
-          
           # Languages Plugin
           plugin_languages: yes
           plugin_languages_ignored: ""
