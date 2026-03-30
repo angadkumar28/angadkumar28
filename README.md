@@ -1,6 +1,6 @@
 ![My GitHub Metrics](/github-metrics.svg)
 
-<h1 align="center">Hi 👋, I'm Angad Kumar</h1>
+<h1 align="center">Hi 👋, I'm Angad :) </h1>
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Software+Developer;Unity+Hub+Enthusiast;Electronics+and+Software+Dev;" alt="Typing SVG" />
